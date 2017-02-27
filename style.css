@@ -14,3 +14,8 @@ p{
 span{
   font-weight: bold;
 }
+
+a{
+  text-decoration: line-through;
+  color: blue;
+}
