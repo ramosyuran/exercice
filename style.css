@@ -10,3 +10,7 @@ h2{
 p{
   font-style: italic;
 }
+
+span{
+  font-weight: bold;
+}
